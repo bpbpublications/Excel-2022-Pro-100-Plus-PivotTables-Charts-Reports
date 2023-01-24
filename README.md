@@ -3,7 +3,7 @@
 Learn Everything about Excel Charts, PivotTables, Dashboards and Master Analytic Techniques for Decision Making
 
 This is the repository for [Excel 2022 Pro 100 + PivotTables, Charts & Reports
-](https://in.bpbonline.com/products/excel-2022-pro-100-pivottables-charts-reports?_pos=1&_sid=2c127d24f&_ss=r&variant=43678482923758),published by BPB Publications. 
+](https://bpbonline.com/products/excel-2022-pro-100-pivottables-charts-reports),published by BPB Publications. 
 
 ## About the Book
 Excel's charts, graphs, and reports are beneficial, so it's time to use them to your advantage. Learn how to execute the most innovative analysis on your preferred data using PivotTables, PivotCharts, What-if-Analysis, descriptive statistics, correlations, histograms, sparklines, animated charts, dashboards, trendlines, and more than 100 other charts and graphs.
